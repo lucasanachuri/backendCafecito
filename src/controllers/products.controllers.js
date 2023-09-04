@@ -1,3 +1,3 @@
 export const listarProductos = (req, res) => {
-  res.send("esto es una prueba");
+  res.send("esto es una pruebita");
 };
